@@ -1,5 +1,26 @@
-# airbnb-clone-project
+
 # Airbnb Clone Project
+
+## 🎨 UI/UX Design Planning
+
+### ✨ Design Goals
+- Provide a **clean, intuitive, and responsive interface**.  
+- Ensure **fast navigation** between property listings, details, and checkout.  
+- Maintain **visual consistency** using a defined design system.  
+
+### 🏠 Key Pages
+| Page | Description |
+|------|-------------|
+| **Property Listing View** | Displays all available properties with filters (price, location, etc.) and a grid/card layout. |
+| **Listing Detailed View** | Shows detailed information about a property: images, description, amenities, reviews, and booking option. |
+| **Simple Checkout View** | Allows users to confirm their booking, view total price, and provide payment details. |
+
+### 💡 Importance of User-Friendly Design
+A **user-friendly design** ensures customers can find and book properties quickly, which increases trust, reduces drop-offs, and improves the overall booking experience.
+
+
+
+
 
 ## 📌 Project Overview
 The **Airbnb Clone Project** is a web application that replicates the core user journey of browsing properties, viewing details, and booking stays.
@@ -142,3 +163,4 @@ cd backend
 python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 flask run
+
